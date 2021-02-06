@@ -40,4 +40,4 @@
 
 [website]: https://buet-edu-lang-eng.netlify.com/
 [facebook]: https://www.facebook.com/mdmehrab.haque.9/
-[linkedin]:https://www.linkedin.com/in/md-mehrab-haque-1607401a0/
+[linkedin]: https://www.linkedin.com/in/alaminkarno/
